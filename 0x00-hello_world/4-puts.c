@@ -13,9 +13,9 @@
 
 /*
  * includes the work script for putting word
- *
- s*/
-int main {void}
+ **/
+
+int main (void)
 { 
 
 	puts("Programming is like building a multilingual puzzle");
