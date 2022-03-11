@@ -1,6 +1,6 @@
 /*
  * File: 9-print_comb.c
- * generated careen naitore
+ * Generated careen naitore
  */
 
 #include <stdio.h>
