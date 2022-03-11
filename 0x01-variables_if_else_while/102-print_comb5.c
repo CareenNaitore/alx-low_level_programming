@@ -1,6 +1,5 @@
 /*
  * File: 102-print_comb5.c
- * Auth: Brennan D Baraban
  */
 
 #include <stdio.h>
@@ -27,7 +26,6 @@ int main(void)
 
 			if (num1 == 98 && num2 == 99)
 				continue;
-
 			putchar(',');
 			putchar(' ');
 		}
