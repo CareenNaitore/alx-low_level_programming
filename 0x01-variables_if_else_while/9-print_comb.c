@@ -1,6 +1,6 @@
 /*
  * File: 9-print_comb.c
- * Generated careen naitore
+ * Auth: careen naitore
  */
 
 #include <stdio.h>
