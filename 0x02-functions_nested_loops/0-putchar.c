@@ -11,7 +11,7 @@
  *
  *
  */
-int main()
+int main(char)
 {
 		_putchar('_');
 		_putchar('p');
