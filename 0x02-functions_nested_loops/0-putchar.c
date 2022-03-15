@@ -5,10 +5,7 @@
  *
  *
  * main - Prints "_putchar" followed by a new line.
- * author careen naitore
- *
- *
- *
+ * Return: Always 0.
  *
  */
 int main(void)
