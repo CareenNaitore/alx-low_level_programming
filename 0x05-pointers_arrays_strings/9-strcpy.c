@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * print_array - print array
- * @dest: character pointer
- * @src: character source
- *
- * Description: copies string pointed to by src
- * Return: return pointer
+*_strcpy - copy strg to another string
+ * @dest: pointer
+ * @src: poiter
+ * Return: numbers dest
  */
 
 char *_strcpy(char *dest, char *src)
