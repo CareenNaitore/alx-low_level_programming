@@ -1,6 +1,4 @@
 Tests 
-tests: Folder of test files. Provided by Holberton School.
-Tasks í³ƒ
 0. Object-like Macro
 
 0-object_like_macro.h: Header file that defines a macro named SIZE as an abbreviation for the token 1024.
