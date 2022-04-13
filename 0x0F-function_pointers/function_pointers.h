@@ -1,6 +1,5 @@
 #ifndef FILE_F_POINTERS
 #define FILE_F_POINTERS
-
 include <stdlib.h>
 
 void print_name(char *name, void (*f)(char *));
